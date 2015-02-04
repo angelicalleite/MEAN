@@ -1,0 +1,28 @@
+{
+  "name": "MEAN",
+  "version": "1.0.0",
+  "description": "Aprendendo Mongo, Express, Node e Angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test epecified\\\" && exit 1\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelicalleite/AprendendoMEAN.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Angelica Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelicalleite/AprendendoMEAN/issues"
+  },
+  "homepage": "https://github.com/angelicalleite/AprendendoMEAN",
+  "dependencies": {
+    "ejs": "^0.8.8",
+    "express": "^4.8.8",
+    "express-load": "^1.1.14"
+  }
+}
